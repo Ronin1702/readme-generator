@@ -42,24 +42,23 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
         .then((answers) => {
-            const response =
-                `
-                # App Name
-                ${answers.appName}
+            const response = `
+# App Name
+${answers.appName}
 
-                ## Description
-                ${answers.description}
+## Description
+${answers.description}
 
-                ## Installation
-                ${answers.installation}
+## Installation
+${answers.installation}
 
-                ## Report
-                ${answers.report}
+## Report
+${answers.report}
 
-                ## Contributions
-                ${answers.contribution}
+## Contributions
+${answers.contribution}
 
-                `;
+`;
 
             writeToFile('README.md', response);
         });
