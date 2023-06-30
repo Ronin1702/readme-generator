@@ -89,8 +89,12 @@ ${renderLicenseSection(data.license)}
 ## Questions
 
 May you have any questions, please contact:
-* Email:  ${data.email}.
-* GitHub: [@${data.username}](https://github.com/${data.username}/).`;
+* Email:  ${data.email}
+* GitHub: [@${data.username}](https://github.com/${data.username}/)
+
+---
+
+© 2023 Kai Chen. All Rights Reserved.`;
 }
 
 module.exports = generateMarkdown;

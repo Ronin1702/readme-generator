@@ -1,6 +1,6 @@
 # README Generator 3000
 
-![License](https://img.shields.io/badge/License-Mozilla_Public_License_2.0-blue)
+![License](https://img.shields.io/badge/License-GNU_General_Public_License_version_3-blue)
 
 ## Description 
 
@@ -34,12 +34,16 @@ N/A
 
 ## License
 
-* This App is licensed under ![License](https://img.shields.io/badge/License-Mozilla_Public_License_2.0-blue).
+* This App is licensed under ![License](https://img.shields.io/badge/License-GNU_General_Public_License_version_3-blue).
 
-* For more information, please visit [Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2-0) on [OpenSource Licenses](https://opensource.org/licenses/).
+* For more information, please visit [GNU General Public License version 3](https://opensource.org/licenses/GPL-3-0) on [OpenSource Licenses](https://opensource.org/licenses/).
 
 ## Questions
 
 May you have any questions, please contact:
-* Email:  kchen@icloud.com.
-* GitHub: [@Ronin1702](https://github.com/Ronin1702/).
+* Email:  kchen@icloud.com
+* GitHub: [@Ronin1702](https://github.com/Ronin1702/)
+
+---
+
+© 2023 Kai Chen. All Rights Reserved.
