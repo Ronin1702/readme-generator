@@ -43,17 +43,17 @@ const questions = [
         message: 'Choose A License: ',
         // record popular licenses from https://opensource.org/licenses/?categories=popular-strong-community
         choices: ['Apache License, Version 2.0',
-        'Common Development and Distribution License 1.0',
-        'Eclipse Public License version 2.0',
-        'GNU General Public License version 2',
-        'GNU General Public License version 3',
-        'GNU Lesser General Public License version 2.1',
-        'GNU Lesser General Public License version 3',
-        'GNU Library General Public License version 2',
-        'Mozilla Public License 2.0',
-        'The 2-Clause BSD License',
-        'The 3-Clause BSD License',
-        'The MIT License']
+            'Common Development and Distribution License 1.0',
+            'Eclipse Public License version 2.0',
+            'GNU General Public License version 2',
+            'GNU General Public License version 3',
+            'GNU Lesser General Public License version 2.1',
+            'GNU Lesser General Public License version 3',
+            'GNU Library General Public License version 2',
+            'Mozilla Public License 2.0',
+            'The 2-Clause BSD License',
+            'The 3-Clause BSD License',
+            'The MIT License']
     },
     {
         type: 'input',
