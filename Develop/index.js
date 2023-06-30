@@ -10,37 +10,37 @@ const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'Name your App.',
+        message: 'Give Your App a Cool Name: ',
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Describe your App in a few words.',
+        message: 'Describe Your Cool App in a few words: ',
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'How to install your App?',
+        message: 'How to Install Your Cool App? ',
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'How to use your App?',
+        message: 'How to USE Your Cool App? ',
     },
     {
         type: 'input',
         name: 'contributing',
-        message: 'How to contribute to your App?',
+        message: 'Any Contribution Guidelines to Your Cool App? ',
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'Test history and How-To: ',
+        message: 'How to Test Your Cool App? ',
     },
     {
         type: 'list',
         name: 'license',
-        message: 'Choose A License: ',
+        message: 'Choose A License for Your Cool App: ',
         // record popular licenses from https://opensource.org/licenses/?categories=popular-strong-community
         choices: ['Apache License, Version 2.0',
             'Common Development and Distribution License 1.0',
@@ -58,12 +58,12 @@ const questions = [
     {
         type: 'input',
         name: 'username',
-        message: 'Enter your GitHub username: ',
+        message: 'Enter Your GitHub Username: ',
     },
     {
         type: 'input',
         name: 'email',
-        message: 'Enter your email: ',
+        message: 'Enter Your Email: ',
     },
 ];
 
