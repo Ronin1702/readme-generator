@@ -1,6 +1,7 @@
 # ReadMe Generator
 This is a simple readme generator demonstrating how to generate a README.md file by using NPM.
 
+
 ## Description
 ```md
 AS A developer
@@ -34,20 +35,15 @@ node index.js
 ```
 
 ## Links
-GitHub Repo: https://github.com/Ronin1702/readme-generator
+* A sample README.md file for a project repository generated using your application
+    * Generated Sample: Please Click :point_right: [HERE](https://github.com/Ronin1702/readme-generator/blob/main/Develop/README.md)
+* The URL of the GitHub repository, with a unique name and a README describing the project
+    * GitHub Repo: https://github.com/Ronin1702/readme-generator
 
 ## Walkthrough Video
-![README-Generator-Screenshot]()
-
-## Review
-
-You are required to submit the following for review:
-
 * A walkthrough video demonstrating the functionality of the application.
 
-* A sample README.md file for a project repository generated using your application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
+![README-Generator-Screenshot]()
 
 ---
 
