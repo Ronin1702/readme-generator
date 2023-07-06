@@ -36,14 +36,14 @@ node index.js
 
 ## Links
 * A sample README.md file for a project repository generated using your application
-    * Generated Sample: Please Click :point_right: [HERE](https://github.com/Ronin1702/readme-generator/blob/main/Develop/README.md)
+    * Please Click :point_right: [HERE](https://github.com/Ronin1702/readme-generator/blob/main/Develop/README.md)
 * The URL of the GitHub repository, with a unique name and a README describing the project
     * GitHub Repo: https://github.com/Ronin1702/readme-generator
 
 ## Walkthrough Video
 * A walkthrough video demonstrating the functionality of the application.
-
-![README-Generator-Screenshot]()
+    * Please visit :globe_with_meridians: [HERE](https://drive.google.com/file/d/1mhDWuGm7z94VjOx_NWbqQy8ifP8A5mvL/preview) or click on the preview below.
+    * [![Walkthrough video](./README%20Generator%203000.gif)](https://drive.google.com/file/d/1mhDWuGm7z94VjOx_NWbqQy8ifP8A5mvL/preview)
 
 ---
 

@@ -17,11 +17,11 @@ This is a simple application to help you auto generate a README.md
 
 ## Installation
 
-Enter `node index.js` after `npm init -y` and `npm i inquirer@8.2.4` in your directory.
+Enter `node index.js` after running `npm init -y` and `npm i inquirer@8.2.4` commands in your directory terminal
 
 ## Usage 
 
-Simply answer prompted questions.
+Simply answer prompted questions
 
 
 ## Contributing
@@ -30,7 +30,7 @@ Simply answer prompted questions.
 
 ## Tests
 
-N/A
+Enter `npm run test` in your directory terminal if a test if provided
 
 ## License
 
