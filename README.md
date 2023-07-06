@@ -1,6 +1,11 @@
 # ReadMe Generator
 This is a simple readme generator demonstrating how to generate a README.md file by using NPM.
+## Table of Contents 
 
+* [Description](#description)
+* [Usage](#usage)
+* [Links](#links)
+* [Walkthrough Video](#walkthrough-video)
 
 ## Description
 ```md
@@ -27,6 +32,8 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
+
+
 ## Usage
 The application will be invoked by using the following command:
 
@@ -42,8 +49,8 @@ node index.js
 
 ## Walkthrough Video
 * A walkthrough video demonstrating the functionality of the application.
-    * Please visit :globe_with_meridians: [HERE](https://drive.google.com/file/d/1mhDWuGm7z94VjOx_NWbqQy8ifP8A5mvL/preview) or click on the preview below.
-    * [![Walkthrough video](./README%20Generator%203000.gif)](https://drive.google.com/file/d/1mhDWuGm7z94VjOx_NWbqQy8ifP8A5mvL/preview)
+    * Please visit :globe_with_meridians: [HERE](https://drive.google.com/file/d/1mhDWuGm7z94VjOx_NWbqQy8ifP8A5mvL/preview)
+    * [![Walkthrough-Video](./README%20Generator%203000.gif)](https://drive.google.com/file/d/1mhDWuGm7z94VjOx_NWbqQy8ifP8A5mvL/preview)
 
 ---
 
