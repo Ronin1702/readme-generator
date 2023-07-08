@@ -2,11 +2,11 @@
 
 ![License](https://img.shields.io/badge/License-GNU_General_Public_License_version_3-blue)
 
-## Description 
+## Description
 
 This is a simple application to help you auto generate a README.md
 
-## Table of Contents 
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -19,10 +19,9 @@ This is a simple application to help you auto generate a README.md
 
 Enter `node index.js` after running `npm init -y` and `npm i inquirer@8.2.4` commands in your directory terminal
 
-## Usage 
+## Usage
 
 Simply answer prompted questions
-
 
 ## Contributing
 
@@ -41,7 +40,8 @@ Enter `npm run test` in your directory terminal if a test if provided
 ## Questions
 
 May you have any questions, please contact:
-* Email:  kchen@icloud.com
+
+* Email: kchen@icloud.com
 * GitHub: [@Ronin1702](https://github.com/Ronin1702/)
 
 ---

@@ -89,6 +89,7 @@ ${renderLicenseSection(data.license)}
 ## Questions
 
 May you have any questions, please contact:
+
 * Email:  ${data.email}
 * GitHub: [@${data.username}](https://github.com/${data.username}/)
 
