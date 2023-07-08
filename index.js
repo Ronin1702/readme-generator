@@ -2,6 +2,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
+const path = require('path');
 
 // an array of licenses for user to choose from based on https://opensource.org/licenses/?categories=international%2Cother-miscellaneous%2Cpopular-strong-community%2Cspecial-purpose%2Csuperseded%2Cuncategorized
 
@@ -69,7 +70,8 @@ const questions = [
 
 // Function to write README file
 function writeToFile(fileName, data) {
-    const outputPath = path.join('examples', filename);
+    // Construct the output file path with the 'examples' folder
+    const outputPath = path.join('examples', fileName);
     fs.writeFile(outputPath, data, (err) =>
         err ? console.log(err) : console.log('README.md Generated!')
     );
